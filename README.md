@@ -1,2 +1,3 @@
-# CaoPP
-A chinese programming version of C++. 
+# 草++
+C++汉化的子集
+详情见维基
